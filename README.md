@@ -194,4 +194,4 @@ In Google Sheets:
 
 The link to the spreadsheet is given [here](https://docs.google.com/spreadsheets/d/1ZRFcxvSOwcXYITCN7aLscuiddGdh-6vJ-pa-CEfS9EU/edit?usp=sharing) (the spreadsheet shows the company's financial statements, my workings, and my summary).
 
-Note: I have also attached the presentation file to this repository. You can also check my presentation slides [here](https://github.com/TuringCollegeSubmissions/byusuf-spec-fin-analyst.1.3/blob/main/Financial%20Analyst.%20presentation.pdf). Thank you for your time.
+Note: I have also attached the presentation file to this repository. You can also check my presentation slides [here](https://github.com/bayoxx/financial-analysis/blob/main/Financial%20Analyst.%20presentation.pdf). Thank you for your time.
