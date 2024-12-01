@@ -12,7 +12,7 @@ Scenario 2 investment opportunity is to build a digital product and invest in ma
 
 Scenario 1 involves significant upfront investments in fixed assets (equipment and buildings), while Scenario 2 opts for an alternative strategy with no investments in fixed assets (equipment and buildings). Key financial metrics were analyzed, including Net Present Value (NPV), Internal Rate of Return (IRR), Payback Period, Profitability Index, and Return on Investment (ROI). Opportunity costs were also calculated to assess the trade-offs between the two scenarios.
 
-## Assumptions for the First Scenario
+#### Assumptions for the First Scenario
 
 - **Project**: Build a factory, including buildings and machine tools required for production.  
 - **Increase in Sales**: After the implementation of the project, sales volumes are expected to increase by **50%** from the current levels, with a further annual increase of **10%**.  
@@ -22,7 +22,7 @@ Scenario 1 involves significant upfront investments in fixed assets (equipment a
 
 ---
 
-## Assumptions for the Second Scenario
+#### Assumptions for the Second Scenario
 
 - **Project**: Conduct active marketing activities and develop a digital product.  
 - **Increase in Sales**: Sales are expected to grow by **30%** annually during the campaign. Growth is anticipated to decrease to **15%** in subsequent periods.  
@@ -32,7 +32,7 @@ Scenario 1 involves significant upfront investments in fixed assets (equipment a
 
 ---
 
-## Investment Allocation  
+#### Investment Allocation  
 
 The company plans to allocate **€5.4 million** to the first scenario and **€8 million** to the second scenario. Investment funds will be sourced from **internal funds**, **credit institutions**, and **private investors**.  
 
