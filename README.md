@@ -12,6 +12,83 @@ Scenario 2 investment opportunity is to build a digital product and invest in ma
 
 Scenario 1 involves significant upfront investments in fixed assets (equipment and buildings), while Scenario 2 opts for an alternative strategy with no investments in fixed assets (equipment and buildings). Key financial metrics were analyzed, including Net Present Value (NPV), Internal Rate of Return (IRR), Payback Period, Profitability Index, and Return on Investment (ROI). Opportunity costs were also calculated to assess the trade-offs between the two scenarios.
 
+## Assumptions for the First Scenario
+
+- **Project**: Build a factory, including buildings and machine tools required for production.  
+- **Increase in Sales**: After the implementation of the project, sales volumes are expected to increase by **50%** from the current levels, with a further annual increase of **10%**.  
+- **Cost**: An additional **10 people** with the company's average salary will be required to service the new production capacity.  
+- **Costs**: Marketing budgets will need to be adjusted further to sustain the projected sales growth.  
+- **Duration of the Project**: **2 years**.  
+
+---
+
+## Assumptions for the Second Scenario
+
+- **Project**: Conduct active marketing activities and develop a digital product.  
+- **Increase in Sales**: Sales are expected to grow by **30%** annually during the campaign. Growth is anticipated to decrease to **15%** in subsequent periods.  
+- **Cost**: Hiring **10 people** with **2x the company's average salary**, starting in the first year, to support service provision and development.  
+- **Costs**: After the campaign ends, advertising budgets are projected to drop to **€1 million per year**.  
+- **Duration of the Project**: **2 years**.  
+
+---
+
+## Investment Allocation  
+
+The company plans to allocate **€5.4 million** to the first scenario and **€8 million** to the second scenario. Investment funds will be sourced from **internal funds**, **credit institutions**, and **private investors**.  
+
+The projected costs of the projects and the investment breakdown are summarized in the table below.  
+
+```markdown
+# Project Values and Funding Sources
+
+## Scenario 1
+
+| **Category**                               | **Total (EUR, without VAT)** | **2018 (EUR, without VAT)** | **2019 (EUR, without VAT)** |
+|--------------------------------------------|------------------------------|-----------------------------|-----------------------------|
+| Investments in fixed assets - equipment    | 1,528,273.20                | 611,309.28                 | 916,963.92                 |
+| Investments in fixed assets - buildings    | 3,000,000.00                | 0.00                       | 3,000,000.00               |
+| Salary of the project implementation team  | 140,000.00                  | 56,000.00                  | 84,000.00                  |
+| Purchase of services                       | 750,000.00                  | 375,000.00                 | 375,000.00                 |
+| **Total value of the project**             | **5,418,273.20**            | **1,042,309.28**           | **4,375,963.92**           |
+| Private investment (third party)           | 1,200,000.00                | 500,000.00                 | 700,000.00                 |
+| Own funds                                  | 2,718,273.20                | 92,309.28                  | 2,625,963.92               |
+| Financing of credit institutions           | 1,500,000.00                | 450,000.00                 | 1,050,000.00               |
+| **Project funding sources, total**         | **5,418,273.20**            | **1,042,309.28**           | **4,375,963.92**           |
+
+---
+
+## Scenario 2
+
+| **Category**                               | **Total (EUR, without VAT)** | **2018 (EUR, without VAT)** | **2019 (EUR, without VAT)** |
+|--------------------------------------------|------------------------------|-----------------------------|-----------------------------|
+| Investments in fixed assets - equipment    | 0.00                        | 0.00                       | 0.00                       |
+| Investments in fixed assets - buildings    | 0.00                        | 0.00                       | 0.00                       |
+| Salary of the project implementation team  | 0.00                        | 0.00                       | 0.00                       |
+| Purchase of services                       | 8,000,000.00                | 4,000,000.00               | 4,000,000.00               |
+| **Total value of the project**             | **8,000,000.00**            | **4,000,000.00**           | **4,000,000.00**           |
+| Private investment (third party)           | 0.00                        | 0.00                       | 0.00                       |
+| Own funds                                  | 8,000,000.00                | 4,000,000.00               | 4,000,000.00               |
+| Financing of credit institutions           | 0.00                        | 0.00                       | 0.00                       |
+| **Project funding sources, total**         | **8,000,000.00**            | **4,000,000.00**           | **4,000,000.00**           |
+```
+
+```markdown
+# Financial Investment Costs and Payback Periods
+
+## Loan Terms
+
+### Private Investment
+- **Duration:** 5 years  
+- **Interest Rate:** 5%  
+- **Repayment Terms:** Refund at expiration  
+
+### Bank Loan
+- **Duration:** 3 years  
+- **Interest Rate:** 3%  
+- **Repayment Terms:** Yearly loan balance of EUR 500,000 is repaid  
+```
+
+
 ---
 
 #### **2. Project Overview**
